@@ -8,13 +8,15 @@
      <div class="header">
   <a href="#default" class="logo">flowerfields.com</a>
   <div class="header-right">
-    <a class="active" href="#home"> welcome </a>
-    <a href="#contact"></a>
-    <a href="#about">About</a>
+    <a class="active" href="#sun"> welcome </a>
+    <a href="#daisy">recent blogs </a>
+    <a href = "#tulip"> programmer blogs </a>
+    <a href = "#poppy"> writing blogs </a>
+    <a href = "#jasmine"> normal blogs </a>
+    <a hred = "#storage"> all blogd </a>
+    <a href="#about">about me </a>
   </div>
 </div>
-     <h1> flowerfields.com - a blog </h1>
-     <h2> the sunflower fields <h2>
      
    </body>
 </html>
